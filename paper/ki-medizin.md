@@ -35,6 +35,7 @@
 
 - [Dermatologist-like explainable AI enhances trust and confidence in diagnosing melanoma](https://www.nature.com/articles/s41467-023-43095-4)
 
+- [Screening performance and characteristics of breast cancer detected in the Mammography Screening with Artificial Intelligence trial (MASAI): a randomised, controlled, parallel-group, non-inferiority, single-blinded, screening accuracy study](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(24)00267-X/fulltext)
 
 ## Bias
 
