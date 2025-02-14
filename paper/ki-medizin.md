@@ -4,6 +4,8 @@
 
 - [Beginnings of Artificial Intelligence in Medicine (AIM): Computational Artifice Assisting Scientific Inquiry and Clinical Art – with Reflections on Present AIM Challenges](https://www.thieme-connect.de/products/ejournals/abstract/10.1055/s-0039-1677895)
 
+- [A Brief History of Artificial Intelligence: On the Past, Present, and Future of Artificial Intelligence](https://journals.sagepub.com/doi/10.1177/0008125619864925)
+
 ## Überblick
 
 - [Artificial intelligence powers digital medicine](https://www.nature.com/articles/s41746-017-0012-2)

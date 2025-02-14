@@ -11,3 +11,17 @@
 - [Carpal instability](https://radiologyassistant.nl/musculoskeletal/wrist/carpal-instability)
 
 - [Fractures](https://radiologyassistant.nl/musculoskeletal/wrist/fractures)
+
+- [Frykman Classification](https://faculty.washington.edu/jeff8rob/trauma-radiology-reference-resource/9-upper-extremity/frykman-classification-of-distal-radial-fractures/)
+
+
+## Untere Extremität
+
+**Arthrose**: 
+
+- [Kellgren Lawrence Klassifikation](https://radiopaedia.org/articles/kellgren-and-lawrence-system-for-classification-of-osteoarthritis)
+
+
+### Hüfte
+
+- [Kellgren Lawrence](https://dr-bitsch.de/wp-content/uploads/2024/09/Coxarthrose-Stadien.png)
